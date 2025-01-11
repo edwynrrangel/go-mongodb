@@ -1,0 +1,38 @@
+GNU AFFERO GENERAL PUBLIC LICENSE
+Version 3, 19 November 2007
+
+Copyright (C) 2024 Edwyn Ramón Rangel González
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+copy, modify, and distribute the Software, provided that the following
+conditions are met:
+
+1. **Attribution**: The above copyright notice and this permission notice shall
+   be included in all copies or substantial portions of the Software.
+2. **Source Code Availability**: If you modify this Software and make it
+   available for public use (e.g., as a service accessible over a network),
+   you are required to release the source code of your modifications under the
+   same AGPLv3 license.
+3. **Distribution of Modifications**: Any derivative work or modification must
+   include clear documentation of the changes made and must also be licensed
+   under the AGPLv3.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+**Notice on public use of this software**:  
+If you use this software as part of a publicly accessible service (e.g., an API,
+web application, or SaaS), any modifications made must be made available under
+the same terms of the AGPLv3. Public access to the modified source code must
+be provided.
+
+For more information, refer to the full license text:  
+<https://www.gnu.org/licenses/agpl-3.0.html>
